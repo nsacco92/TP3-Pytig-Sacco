@@ -4,3 +4,5 @@ En este trabajo se realizó un análisis de datos correspondiente al Censo Nacio
 Los resultados del análisis se visualizan en gráficos y mapas estáticos y dinamicos, lo que permite una interpertación más simple e interactiva.
 Se utilizó un archivo del tipo shape file donde se encuentran cargadas las variables censadas como atributos del mismo.
 
+[binder] https://mybinder.org/v2/gh/nsacco92/TP3-Pytig-Sacco.git/HEAD
+
